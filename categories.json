@@ -1,0 +1,203 @@
+{
+  "Food": [
+    "Groceries",
+    "Fruits & Vegetables",
+    "Dairy & Bakery",
+    "Dining Out",
+    "Cafe",
+    "Snacks",
+    "Delivery Fees",
+    "Sweets & Desserts",
+    "Other"
+  ],
+  "Transportation": [
+    "Fuel",
+    "Public Transport",
+    "Cab",
+    "Auto",
+    "Parking",
+    "Tolls",
+    "Vehicle Maintenance",
+    "Vehicle Insurance",
+    "Other"
+  ],
+  "Housing": [
+    "Rent",
+    "Maintenance",
+    "Property Tax",
+    "Repairs",
+    "Cleaning",
+    "Furnishing",
+    "Home Insurance",
+    "Other"
+  ],
+  "Utilities": [
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet",
+    "Mobile",
+    "TV/DTH",
+    "Other"
+  ],
+  "Healthcare": [
+    "Medicines",
+    "Doctor Consultation",
+    "Diagnostics",
+    "Health Insurance",
+    "Fitness/Gym",
+    "Dental",
+    "Vision/Eye Care",
+    "Other"
+  ],
+  "Education": [
+    "Books",
+    "Courses",
+    "Online Subscriptions",
+    "Exam Fees",
+    "Workshops",
+    "Tuition",
+    "Stationery",
+    "Other"
+  ],
+  "Family & Kids": [
+    "School Fees",
+    "Daycare",
+    "Toys & Games",
+    "Clothing",
+    "Events & Birthdays",
+    "Babysitting",
+    "Other"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Streaming Subscriptions",
+    "Games & Apps",
+    "Events & Concerts",
+    "Hobbies",
+    "Sports Activities",
+    "Other"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Footwear",
+    "Accessories",
+    "Electronics",
+    "Appliances",
+    "Home Decor",
+    "Jewelry",
+    "Other"
+  ],
+  "Subscriptions": [
+    "SaaS Tools",
+    "Cloud & AI",
+    "Newsletters",
+    "Music & Video",
+    "Storage & Backup",
+    "Premium Apps",
+    "Other"
+  ],
+  "Personal Care": [
+    "Salon & Spa",
+    "Grooming",
+    "Cosmetics",
+    "Hygiene Products",
+    "Wellness",
+    "Other"
+  ],
+  "Gifts & Donations": [
+    "Personal Gifts",
+    "Charity",
+    "Festivals",
+    "Religious Donations",
+    "Other"
+  ],
+  "Finance & Fees": [
+    "Bank Charges",
+    "Late Fees",
+    "Interest Payments",
+    "Brokerage Fees",
+    "Processing Fees",
+    "Other"
+  ],
+  "Business": [
+    "Software & Tools",
+    "Hosting & Domains",
+    "Marketing & Ads",
+    "Contractor Payments",
+    "Business Travel",
+    "Office Supplies",
+    "Professional Services",
+    "Other"
+  ],
+  "Travel": [
+    "Flights",
+    "Hotels & Accommodation",
+    "Train & Bus",
+    "Visa & Passport",
+    "Local Transport",
+    "Food & Dining",
+    "Activities & Tours",
+    "Travel Insurance",
+    "Other"
+  ],
+  "Home": [
+    "Household Supplies",
+    "Cleaning Supplies",
+    "Kitchenware",
+    "Small Repairs",
+    "Pest Control",
+    "Laundry",
+    "Other"
+  ],
+  "Pet Care": [
+    "Food",
+    "Veterinary",
+    "Grooming",
+    "Supplies",
+    "Pet Insurance",
+    "Other"
+  ],
+  "Taxes": [
+    "Income Tax",
+    "GST",
+    "Professional Tax",
+    "Filing Fees",
+    "Property Tax",
+    "Other"
+  ],
+  "Investments": [
+    "Mutual Funds",
+    "Stocks",
+    "FD/RD",
+    "Gold",
+    "Crypto",
+    "Real Estate",
+    "PPF/NPS",
+    "Other"
+  ],
+  "Insurance": [
+    "Life Insurance",
+    "Health Insurance",
+    "Vehicle Insurance",
+    "Home Insurance",
+    "Travel Insurance",
+    "Other"
+  ],
+  "Debt & Loans": [
+    "Home Loan EMI",
+    "Car Loan EMI",
+    "Personal Loan EMI",
+    "Credit Card Payment",
+    "Education Loan EMI",
+    "Other"
+  ],
+  "Miscellaneous": [
+    "Uncategorized",
+    "Cash Withdrawal",
+    "ATM Fees",
+    "Legal Fees",
+    "Fines & Penalties",
+    "Other"
+  ]
+}
