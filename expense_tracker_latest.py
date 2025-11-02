@@ -5,9 +5,9 @@ import aiosqlite  # Changed: sqlite3 → aiosqlite   # Command: uv add aiosqlite
 # Create MCP server
 mcp = FastMCP("Expense Tracker")
 
-# Safe database location (writable on MCP Cloud)
-DB_PATH = os.path.join(os.getcwd(), "expenses.db")
-CATEGORIES_PATH = os.path.join(os.getcwd(), "categories.json")
+# ✅ Writable locations on MCP Cloud
+DB_PATH = os.path.join("/tmp", "expenses.db")
+CATEGORIES_PATH = os.path.join("/tmp", "categories.json")
 
 
 
