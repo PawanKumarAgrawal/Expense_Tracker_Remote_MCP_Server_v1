@@ -138,5 +138,9 @@ def categories():
 
 # Start the server
 if __name__ == "__main__":
-    mcp.run(transport="http", host="0.0.0.0", port=8080)
+    import logging
+    logging.basicConfig(level=logging.INFO)
+    print("🚀 Starting Expense Tracker MCP Server on port 8080...")
+    mcp.run(host="0.0.0.0", port=8080)
+
 
