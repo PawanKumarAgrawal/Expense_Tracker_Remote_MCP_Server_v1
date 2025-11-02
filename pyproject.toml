@@ -1,10 +1,11 @@
 [project]
 name = "expense-tracker-remote-mcp-server-v1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Async Expense Tracker MCP server using FastMCP + aiosqlite"
 readme = "README.md"
 requires-python = ">=3.11"
+
 dependencies = [
-    "fastmcp>=2.13.0.2", 
-    "aiosqlite"
+    "fastmcp>=2.13.0.2",
+    "aiosqlite>=0.19.0"
 ]
