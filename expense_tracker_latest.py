@@ -109,7 +109,7 @@ async def summarize(start_date, end_date, category=None):  # Changed: added asyn
 
 
 @mcp.resource("expense:///categories", mime_type="application/json")  # Changed: expense:// → expense:///
-def categories():
+async def categories():
     try:
         # Provide default categories if file doesn't exist
         default_categories = {
