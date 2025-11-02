@@ -24,9 +24,9 @@ def init_db():  # Keep as sync for initialization
                     id INTEGER PRIMARY KEY AUTOINCREMENT,
                     date TEXT NOT NULL,
                     amount REAL NOT NULL,
-                    category TEXT NOT NULL,
-                    subcategory TEXT DEFAULT '',
-                    note TEXT DEFAULT ''
+                    category TEXT,
+                    subcategory TEXT,
+                    note TEXT
                 )
             """)
             # Test write access
