@@ -4,7 +4,7 @@ from fastmcp import FastMCP
 # The default protocol is Streamable HTTP, accessible via the /mcp endpoint.
 
 mcp = FastMCP.as_proxy(
-    backend="https://expns-track-remote-mcp-server-v1.fastmcp.app/mcp",
+    backend="https://expense-tracker-latest-v1.fastmcp.app/mcp",
     name="Demo Remote Proxy Server 2"
 )
 
